@@ -6,3 +6,6 @@ example focusing on processing and converting data, loading into a DNN Classifie
 
 ## Jupyter Notebook:
 https://github.com/contractorwolf/tensorflow-irisdataset/blob/master/Iris-Estimator-Tensorflow-Basics.ipynb
+
+## Running in Colab:
+https://colab.research.google.com/drive/1v04vdZ8H5xCyBG3ALIoAl9sw8MczG6Cb
